@@ -1,4 +1,4 @@
-RezChest.Test.v1.06
-https://github.com/ResistanceLab/RezChest/releases/download/RezChest.Test.v1.06/RezChest.Test.v1.06.dll
-442d06af14f3ccedfc018ec1202bb7e21cd63ad15b4c951056327def22655776
-Mini HUD with /spawncache
+RezChest.Test.v1.07
+https://github.com/ResistanceLab/RezChest/releases/download/RezChest.Test.v1.07/RezChest.Test.v1.07.dll
+5d66bf94aff196bdf3fcd7a7ec93b5a333d3fecf173af4b7816cb9d5e0522741
+Mini HUD: Spawn Cache and UB AutoSalvage buttons
