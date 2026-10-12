@@ -1,4 +1,4 @@
-RezChest.Test.v1.04
-https://github.com/ResistanceLab/RezChest/releases/download/RezChest.Test.v1.04/RezChest.Test.v1.04.dll
-c58732947f4ccd19ee2b202c65edd348aeca87fc5c5703992ae85335042b6e81
-Auto-update, Loot Selected, progress line
+RezChest.Test.v1.05
+https://github.com/ResistanceLab/RezChest/releases/download/RezChest.Test.v1.05/RezChest.Test.v1.05.dll
+6ac5336bc76af065fd62ff63b73f0daa4bac8dcf2b722ad022851237ca453ffd
+Key loop for Legendary Chests, Auto-Loot Open Chest
