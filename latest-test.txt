@@ -1,4 +1,4 @@
-RezChest.Test.v1.07
-https://github.com/ResistanceLab/RezChest/releases/download/RezChest.Test.v1.07/RezChest.Test.v1.07.dll
-5d66bf94aff196bdf3fcd7a7ec93b5a333d3fecf173af4b7816cb9d5e0522741
-Mini HUD: Spawn Cache and UB AutoSalvage buttons
+RezChest.Test.v1.08
+https://github.com/ResistanceLab/RezChest/releases/download/RezChest.Test.v1.08/RezChest.Test.v1.08.dll
+b9f09b8da4bc20d437a13cb8d5c4dbafb54e5e5caa84537aafdf6ec549e9994b
+Mini HUD collapse button
