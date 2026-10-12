@@ -1,4 +1,4 @@
-RezChest.Test.v1.05
-https://github.com/ResistanceLab/RezChest/releases/download/RezChest.Test.v1.05/RezChest.Test.v1.05.dll
-6ac5336bc76af065fd62ff63b73f0daa4bac8dcf2b722ad022851237ca453ffd
-Key loop for Legendary Chests, Auto-Loot Open Chest
+RezChest.Test.v1.06
+https://github.com/ResistanceLab/RezChest/releases/download/RezChest.Test.v1.06/RezChest.Test.v1.06.dll
+442d06af14f3ccedfc018ec1202bb7e21cd63ad15b4c951056327def22655776
+Mini HUD with /spawncache
