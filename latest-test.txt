@@ -1,4 +1,4 @@
-RezChest.Test.v1.08
-https://github.com/ResistanceLab/RezChest/releases/download/RezChest.Test.v1.08/RezChest.Test.v1.08.dll
-b9f09b8da4bc20d437a13cb8d5c4dbafb54e5e5caa84537aafdf6ec549e9994b
-Mini HUD collapse button
+RezChest.Test.v1.09
+https://github.com/ResistanceLab/RezChest/releases/download/RezChest.Test.v1.09/RezChest.Test.v1.09.dll
+04dd96eecb3c1d1859090ed154631a9962afcf93e5ba455939e24a4d813ce48a
+Mini HUD wider, width adjustable
