@@ -1,4 +1,4 @@
-RezChest.Test.v1.10
-https://github.com/ResistanceLab/RezChest/releases/download/RezChest.Test.v1.10/RezChest.Test.v1.10.dll
-8dbd36652dcd9b5214ba79ef60f084baaac7f2ff6bf8888846e72c7b88af6fe0
-Mini HUD: RezTank AutoSalvage button
+RezChest.Test.v1.11
+https://github.com/ResistanceLab/RezChest/releases/download/RezChest.Test.v1.11/RezChest.Test.v1.11.dll
+8d72bcf2eaf76edd803baf009ea8c5994e9acd83f56ae885319ad7c243187391
+Mini HUD: RT AutoSalvage button
