@@ -1,4 +1,4 @@
-RezChest.Test.v1.11
-https://github.com/ResistanceLab/RezChest/releases/download/RezChest.Test.v1.11/RezChest.Test.v1.11.dll
-8d72bcf2eaf76edd803baf009ea8c5994e9acd83f56ae885319ad7c243187391
-Mini HUD: RT AutoSalvage button
+RezChest.Test.v1.12
+https://github.com/ResistanceLab/RezChest/releases/download/RezChest.Test.v1.12/RezChest.Test.v1.12.dll
+955a92d9dc63e69f66cd7db61121a1d7542431a4d21101e6658a8ce368d95153
+Fix: keyed chest never opened after unlocking
