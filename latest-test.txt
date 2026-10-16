@@ -1,4 +1,4 @@
-RezChest.Test.v1.13
-https://github.com/ResistanceLab/RezChest/releases/download/RezChest.Test.v1.13/RezChest.Test.v1.13.dll
-ba563fe49ea082e0dbcff17e3d566ccf43f6f4b4715180e262e04c0643203e24
-Mini HUD: X close button
+RezChest.Test.v1.14
+https://github.com/ResistanceLab/RezChest/releases/download/RezChest.Test.v1.14/RezChest.Test.v1.14.dll
+8ba9be796e24c1079a10efd774a580a975d23c104e15eabd7f2d18a49ef888fc
+Move retries bounded; stackables merge into existing stacks; key loop stops on a failed item
