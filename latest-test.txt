@@ -1,4 +1,4 @@
-RezChest.Test.v1.15
-https://github.com/ResistanceLab/RezChest/releases/download/RezChest.Test.v1.15/RezChest.Test.v1.15.dll
-5c4c46137879d097ae3ad853f76ecd4fab4b842940526078415d35e7ef2bc39d
-Main pack full: items go into side packs like a double-click; stack merge fixed
+RezChest.Test.v1.16
+https://github.com/ResistanceLab/RezChest/releases/download/RezChest.Test.v1.16/RezChest.Test.v1.16.dll
+50adf7dcbb4ebb93c1a3fd63928b0bbcc326c1414c82458db6446237cb9761c3
+Stackables picked up like a double-click (no 4 s stall)
