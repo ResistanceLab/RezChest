@@ -1,4 +1,4 @@
-RezChest.Test.v1.14
-https://github.com/ResistanceLab/RezChest/releases/download/RezChest.Test.v1.14/RezChest.Test.v1.14.dll
-8ba9be796e24c1079a10efd774a580a975d23c104e15eabd7f2d18a49ef888fc
-Move retries bounded; stackables merge into existing stacks; key loop stops on a failed item
+RezChest.Test.v1.15
+https://github.com/ResistanceLab/RezChest/releases/download/RezChest.Test.v1.15/RezChest.Test.v1.15.dll
+5c4c46137879d097ae3ad853f76ecd4fab4b842940526078415d35e7ef2bc39d
+Main pack full: items go into side packs like a double-click; stack merge fixed
