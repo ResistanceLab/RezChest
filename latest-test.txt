@@ -1,4 +1,4 @@
-RezChest.Test.v1.16
-https://github.com/ResistanceLab/RezChest/releases/download/RezChest.Test.v1.16/RezChest.Test.v1.16.dll
-50adf7dcbb4ebb93c1a3fd63928b0bbcc326c1414c82458db6446237cb9761c3
-Stackables picked up like a double-click (no 4 s stall)
+RezChest.Test.v1.17
+https://github.com/ResistanceLab/RezChest/releases/download/RezChest.Test.v1.17/RezChest.Test.v1.17.dll
+78e75422a15f6819ef85c8fa3db14ec9de7ceeca9d16a36257a342c913793c2c
+Carried stackables (MMDs) wait for the previous pickup; landed/merged debug
