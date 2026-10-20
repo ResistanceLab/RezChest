@@ -1,4 +1,4 @@
-RezChest.Test.v1.18
-https://github.com/ResistanceLab/RezChest/releases/download/RezChest.Test.v1.18/RezChest.Test.v1.18.dll
-53fdedfe76596be84a87079bee7585ce554b37ae8f27d0823582b8059a5375f3
-Chest order again; carried stackables wait in place
+RezChest.Test.v1.19
+https://github.com/ResistanceLab/RezChest/releases/download/RezChest.Test.v1.19/RezChest.Test.v1.19.dll
+578dca686325643806a40d550f36d96e216f92814cf08abbaa2e4cf464f28e4a
+Carried stackables (MMDs) wait for the previous pickup; landed/merged debug
