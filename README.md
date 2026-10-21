@@ -54,6 +54,9 @@ Chat shows a summary like `[RezChest] Done: Chest - looted 7 of 23 items in 4.2 
 /rzc profile vtank      use VTank's current loot profile
 /rzc close on|off       close the chest when done (default on)
 /rzc report on|off      one chat line per looted item
+/rzc loop on|off        with a key set: keep unlocking and looting until the keys run out (default on)
+/rzc auto on|off        loot any chest you open yourself, straight away (default off)
+/rzc hud                show/hide the mini HUD (status lines + Spawn Cache, UB AutoSalvage, RT AutoSalvage = /rz autosalvage force buttons)
 /rzc ids <n>            ID requests in flight (default 4)
 /rzc idgap <ms>         gap between ID requests (default 50)
 /rzc idmode direct|decal  how IDs are requested (default direct)
