@@ -1,4 +1,4 @@
-RezChest.Test.v1.19
-https://github.com/ResistanceLab/RezChest/releases/download/RezChest.Test.v1.19/RezChest.Test.v1.19.dll
-578dca686325643806a40d550f36d96e216f92814cf08abbaa2e4cf464f28e4a
-Carried stackables (MMDs) wait for the previous pickup; landed/merged debug
+RezChest.Test.v1.20
+https://github.com/ResistanceLab/RezChest/releases/download/RezChest.Test.v1.20/RezChest.Test.v1.20.dll
+7158b15242fa6c7bdf807b09953d822542ce5818a6c3adf527bef9507e7cdce1
+HUD: RT AutoSalvage sends /rz autosalvage force
