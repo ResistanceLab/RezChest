@@ -1,4 +1,4 @@
-RezChest.Test.v1.22
-https://github.com/ResistanceLab/RezChest/releases/download/RezChest.Test.v1.22/RezChest.Test.v1.22.dll
-ae1793a6387114d61ba94584ae0c28f21099003f49971a3168da6a3bb7497673
-Shorter, measured wait before carried stackables
+RezChest.Test.v1.23
+https://github.com/ResistanceLab/RezChest/releases/download/RezChest.Test.v1.23/RezChest.Test.v1.23.dll
+5b26860dace51f20405a06b15e2987b34a760812f501bc4f4ba4daea76f0980c
+Stackables without the pause; Update tab; version in HUD title
