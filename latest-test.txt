@@ -1,4 +1,4 @@
-RezChest.Test.v1.23
-https://github.com/ResistanceLab/RezChest/releases/download/RezChest.Test.v1.23/RezChest.Test.v1.23.dll
-5b26860dace51f20405a06b15e2987b34a760812f501bc4f4ba4daea76f0980c
-Stackables without the pause; Update tab; version in HUD title
+RezChest.Test.v1.24
+https://github.com/ResistanceLab/RezChest/releases/download/RezChest.Test.v1.24/RezChest.Test.v1.24.dll
+9fb08e15f4f688f38af57a99dfff6e780124279dd24114aa0ee92f8c0f292a52
+Fix: RezChest window missing from VVS in 1.23
