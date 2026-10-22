@@ -29,7 +29,8 @@ RezChest checks this repository at login and then every hour.
 - **Channels:** test builds only follow test builds, and releases only follow releases. RezChest never downgrades.
 - **Run AC as administrator once:** this lets RezChest point Decal at the new file directly. Without it, the update replaces the running file at the next start instead.
 - **Turn off downloading:** put an empty `noautoupdate.txt` next to the DLL. You'll still be told when there's a new build.
-- **Check right now:** `/rzc update`
+- **Check right now:** the **Update** tab's **Check for Update** button, or `/rzc update`. While it runs the button reads **Cancel Update**; the tab shows the status, a download progress bar and the release notes.
+- **Window title:** the RezChest window and the mini HUD show the version you're running.
 
 ## Use
 
@@ -61,7 +62,7 @@ Chat shows a summary like `[RezChest] Done: Chest - looted 7 of 23 items in 4.2 
 /rzc idgap <ms>         gap between ID requests (default 50)
 /rzc idmode direct|decal  how IDs are requested (default direct)
 /rzc debug on|off       timestamped trace of every step
-/rzc update             check for a newer build now
+/rzc update [cancel]    check for a newer build now (cancel = stop a check / download)
 /rzc status             show the settings
 ```
 
