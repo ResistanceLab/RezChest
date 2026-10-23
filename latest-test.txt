@@ -1,4 +1,4 @@
-RezChest.Test.v1.24
-https://github.com/ResistanceLab/RezChest/releases/download/RezChest.Test.v1.24/RezChest.Test.v1.24.dll
-9fb08e15f4f688f38af57a99dfff6e780124279dd24114aa0ee92f8c0f292a52
-Fix: RezChest window missing from VVS in 1.23
+RezChest.Test.v1.25
+https://github.com/ResistanceLab/RezChest/releases/download/RezChest.Test.v1.25/RezChest.Test.v1.25.dll
+7cb82de030e5fd7edfc180c5487a6b4ed33a55cd70132594b3c922e6d7d52307
+Mini HUD: Stop button, UB AutoSalvage removed; stack merges wait until idle
