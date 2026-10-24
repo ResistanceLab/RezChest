@@ -1,4 +1,4 @@
-RezChest.Test.v1.25
-https://github.com/ResistanceLab/RezChest/releases/download/RezChest.Test.v1.25/RezChest.Test.v1.25.dll
-7cb82de030e5fd7edfc180c5487a6b4ed33a55cd70132594b3c922e6d7d52307
-Mini HUD: Stop button, UB AutoSalvage removed; stack merges wait until idle
+RezChest.Test.v1.26
+https://github.com/ResistanceLab/RezChest/releases/download/RezChest.Test.v1.26/RezChest.Test.v1.26.dll
+2163cd3a53ef8c2a13dd9df3b0e870d93d8029a0992ecc3027506aa6601141df
+Mini HUD: Stop stops at once, then Start re-runs the same chest
