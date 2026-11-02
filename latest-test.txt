@@ -1,4 +1,4 @@
-RezChest.Test.v1.26
-https://github.com/ResistanceLab/RezChest/releases/download/RezChest.Test.v1.26/RezChest.Test.v1.26.dll
-2163cd3a53ef8c2a13dd9df3b0e870d93d8029a0992ecc3027506aa6601141df
-Mini HUD: Stop stops at once, then Start re-runs the same chest
+RezChest.Test.v1.27
+https://github.com/ResistanceLab/RezChest/releases/download/RezChest.Test.v1.27/RezChest.Test.v1.27.dll
+a0ef645700573fcb9b8b5fd827f78a2629d0f275c7ef483735580812efaf6791
+Blocked characters close the client at login
